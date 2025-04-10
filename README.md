@@ -42,8 +42,3 @@ STEP 2:
 This assignment is designed to enhance skills in developing software around a high-level API and apply the C++ programming skills acquired in Bootcamp 2 and Studio 2 to a comprehensive, team-based project. The code contains an “Expansion Pack” for Minecraft that enables users to solve mazes. The code utilises Minecraft's C++ API, "mcpp", to achieve this.
 
 </br>
-Group Members:
-
-Devon Katsuk S3844510
-Ishita . s4020999
-Yunbin Cho s4001725
