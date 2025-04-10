@@ -1,0 +1,124 @@
+
+Welcome to MineCraft MazeRunner!
+--------------------------------
+
+------------- MAIN MENU -------------
+1) Create a Maze
+2) Build Maze in MineCraft
+3) Solve Maze
+4) Show Team Information
+5) Exit
+
+Enter Menu item to continue: 
+
+------------- CREATE A MAZE -------------
+1) Read Maze from terminal
+2) Generate Random Maze With Clearing Environment
+3) Generate Random Maze Without Clearing Environment
+4) Back
+
+Enter Menu item to continue: 
+In minecraft navigate to where you need the maze
+to be build and type - done
+Enter the length and width of the maze to build:
+Maze generated successfully
+**Printing Maze**
+BasePoint: (4809 70 4335)
+Structure
+x.xxxxx
+x.....x
+x.xxx.x
+x...x.x
+xxx.xxx
+x.....x
+xxxxxxx
+**End Printing Maze**
+
+------------- MAIN MENU -------------
+1) Create a Maze
+2) Build Maze in MineCraft
+3) Solve Maze
+4) Show Team Information
+5) Exit
+
+Enter Menu item to continue: 
+
+------------- MAIN MENU -------------
+1) Create a Maze
+2) Build Maze in MineCraft
+3) Solve Maze
+4) Show Team Information
+5) Exit
+
+Enter Menu item to continue: 
+
+------------- SOLVE MAZE -------------
+1) Solve Manually
+2) Show Escape Route
+3) Back
+
+Enter Menu item to continue: 
+
+------------- MAIN MENU -------------
+1) Create a Maze
+2) Build Maze in MineCraft
+3) Solve Maze
+4) Show Team Information
+5) Exit
+
+Enter Menu item to continue: 
+
+------------- SOLVE MAZE -------------
+1) Solve Manually
+2) Show Escape Route
+3) Back
+
+Enter Menu item to continue: 
+
+------------- SOLVE Algorithm -------------
+1) Wallflower (left hand rule)
+2) Breadth first search
+3) Back
+
+Enter Menu item to continue: 
+Step[1]: (4814, 70, 4340)
+Step[2]: (4814, 70, 4340)
+Step[3]: (4814, 70, 4340)
+Step[4]: (4814, 70, 4339)
+Step[5]: (4814, 70, 4338)
+Step[6]: (4813, 70, 4338)
+Step[7]: (4812, 70, 4338)
+Step[8]: (4812, 70, 4338)
+Step[9]: (4812, 70, 4337)
+Step[10]: (4812, 70, 4336)
+Step[11]: (4811, 70, 4336)
+Step[12]: (4810, 70, 4336)
+Step[13]: (4810, 70, 4337)
+Step[14]: (4810, 70, 4338)
+Step[15]: (4810, 70, 4339)
+Step[16]: (4810, 70, 4340)
+Step[17]: (4811, 70, 4340)
+Step[18]: (4812, 70, 4340)
+Step[19]: (4812, 70, 4340)
+Step[20]: (4812, 70, 4340)
+Step[21]: (4811, 70, 4340)
+Step[22]: (4810, 70, 4340)
+Step[23]: (4810, 70, 4340)
+Step[24]: (4810, 70, 4339)
+Step[25]: (4810, 70, 4338)
+Step[26]: (4810, 70, 4337)
+Step[27]: (4810, 70, 4336)
+Step[28]: (4809, 70, 4336)
+Step[29]: (4809, 70, 4336)
+
+------------- MAIN MENU -------------
+1) Create a Maze
+2) Build Maze in MineCraft
+3) Solve Maze
+4) Show Team Information
+5) Exit
+
+Enter Menu item to continue: 
+
+The End!
+
